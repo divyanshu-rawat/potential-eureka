@@ -15,9 +15,12 @@
 date=$(date)
 
 #get the topic
-topic=$1
+topic="$1"
+
+# filename to write on
+filename="${topic}notes.txt"
 
 read -p "Your Note: " note
 
-echo $date: $note >> ${topic}notes.txt
-echo Note saved: $note
+echo "$date: $note" >> "$filename"
+echo "Note: '$note' saved to $filename"
