@@ -3,3 +3,12 @@ Divyanshu is awesome!
 Fri Jul 26 00:00:31 CEST 2019: Divyanshu is awesome!
 Fri Jul 26 00:03:25 CEST 2019: Divyanshu is awesome!
 Fri Jul 26 12:02:50 CEST 2019: it is interactive note!
+Sat Jul 27 16:43:43 CEST 2019: divyanshu
+Sat Jul 27 16:46:50 CEST 2019: Note: 'divyanshu' saved to notes.txt
+Sat Jul 27 16:50:29 CEST 2019: Note: 'divyanshu' saved to notes.txt
+Sat Jul 27 16:51:07 CEST 2019: hey
+Sat Jul 27 16:52:46 CEST 2019: 
+Sat Jul 27 16:55:24 CEST 2019: hey
+Sat Jul 27 16:55:57 CEST 2019: divyanshu
+Sat Jul 27 16:59:57 CEST 2019: testing script!
+Sat Jul 27 17:02:06 CEST 2019: divyanshu

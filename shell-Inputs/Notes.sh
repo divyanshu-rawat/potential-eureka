@@ -22,5 +22,10 @@ filename="${topic}notes.txt"
 
 read -p "Your Note: " note
 
-echo "$date: $note" >> "$filename"
-echo "Note: '$note' saved to $filename"
+
+if [[ $note ]]; then
+	echo "$date: $note" >> "$filename"
+	echo "Note '$note' saved to $filename"
+else
+	echo "No input; note wasn't saved." 1>&2 
+fi
