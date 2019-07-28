@@ -1,7 +1,0 @@
-Hello.sh
-README.md
-fileCount.sh
-listing.txt
-shell-IO
-shell-Inputs
-shell-decisions
