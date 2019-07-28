@@ -1,2 +1,15 @@
-# potential-eureka
-Recalling shell scripting via examples and theory!!!
+# potential-eureka 👋
+Recalling shell scripting with examples and theory!! 🎧★
+
+
+| Scripts            | Description   |
+| -------------      |:-------------:|
+| create_script.sh      |  This script creates a new bash script, sets permissions and more. | 
+| drawing.sh          | Outputs a line of characters.      | 
+| fileCount.sh      | Counts number of files in a directory.      |
+| fileExtension.sh     | Change filename extensions.      |
+| guessGame.sh      | A simple guessing game.      |
+| numberCount.sh      | # This script prints a range of numbers.      |
+| strip.sh      | Detect substring in a string.      |
+| fileCount.sh      | Counts number of files in a directory.      |
+| fileCount.sh      | Counts number of files in a directory.      |
