@@ -12,3 +12,10 @@ Recalling shell scripting with examples and theory!! 🎧★
 | numberCount.sh      | # This script prints a range of numbers.      |
 | strip.sh      | Detect substring in a string.      |
 | zipScript.sh      |  This will compress the directory dir into file     |
+
+
+## Bash Notes ★
+
+| Notes            | Description   |
+| -------------      |:-------------:|
+| Pipes     |  [Pipes in bash](https://www.howtoforge.com/linux-mkfifo-command/) | 
