@@ -11,5 +11,4 @@ Recalling shell scripting with examples and theory!! 🎧★
 | guessGame.sh      | A simple guessing game.      |
 | numberCount.sh      | # This script prints a range of numbers.      |
 | strip.sh      | Detect substring in a string.      |
-| fileCount.sh      | Counts number of files in a directory.      |
-| fileCount.sh      | Counts number of files in a directory.      |
+| zipScript.sh      |  This will compress the directory dir into file     |
